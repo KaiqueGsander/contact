@@ -1,0 +1,27 @@
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 30%;
+background-color: rgb(227, 255, 255);
+}
+.aa{
+position:relative ;
+margin: 0px 0px;
+
+}
+.na{
+font-size: 16px;
+border-radius: 9px;
+border-width: 1px;
+}
+.em{
+font-size: 16px;
+border-radius: 9px;
+border-width: 1px;
+}
+ .msg{
+font-size: 16px;
+border-radius: 10px;
+border-width: 1px;
+}
